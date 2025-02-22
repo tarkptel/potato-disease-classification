@@ -6,7 +6,7 @@
 
   <div class="section">
         <h2>1. About Website</h2>
-        <p>Live Demo 🚀 : <a href="https://huggingface.co/spaces/tensorboy0101/test" target="_blank">Click Here</a></p>
+        <p><strong> Live Demo 🚀 : </strong><a href="https://huggingface.co/spaces/tensorboy0101/test" target="_blank">Click Here</a></p>
         <p>This website allows users to upload an image of a potato leaf, and the model will classify it as Early Blight, Late Blight, or Healthy along with confidence.</p>
         <h3>Screenshots:</h3>
         <img src="Images/screenshot1.png" alt="Web App Screenshot 1" width="600">
