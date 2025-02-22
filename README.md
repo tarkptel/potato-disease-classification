@@ -12,7 +12,7 @@
         <img src="Images/screenshot1.png" alt="Web App Screenshot 1" width="600">
         <img src="Images/screenshot2.png" alt="Web App Screenshot 2" width="600">
 
-<br><br>
+<br>
    
  </div>
 
@@ -22,7 +22,7 @@
         <p>From this dataset, I specifically selected the Potato plant images to train the model.</p>
     </div>
 
-<br><br>
+<br>
 
    <div class="section">
         <h2>3. Model Training</h2>
@@ -31,7 +31,7 @@
         
    </div>
    
-<br><br>
+<br>
 
   <div class="section">
         <h2>4. Deployment</h2>
@@ -39,7 +39,7 @@
         <p>Live Demo 🎯 : <a href="https://huggingface.co/spaces/tensorboy0101/test" target="_blank">Click Here</a></p>
     </div>
     
-<br><br>
+<br>
 
    <div class="section">
         <h2>Developed By</h2>
